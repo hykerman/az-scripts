@@ -1,1 +1,1 @@
-# azure-scripts
+# az-scripts
